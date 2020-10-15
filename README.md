@@ -14,5 +14,5 @@ Desenvolvendo uma "rede-social" em PHP, voltada apenas as criações de funciona
 - Não há ainda possibilidade de deletar amizade ou reportar.
 
 # Desenvolvimento
-- Padrão MVP e Rotas.
+- Padrão MVC e Rotas.
 - PHP, HTML e CSS.
