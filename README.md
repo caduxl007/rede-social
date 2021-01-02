@@ -15,4 +15,4 @@ Desenvolvendo uma "rede-social" em PHP, voltada apenas as criações de funciona
 
 # Desenvolvimento
 - Padrão MVC e Rotas.
-- PHP, HTML e CSS.  
+- PHP, HTML e CSS. 
